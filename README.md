@@ -1,2 +1,2 @@
 # digital-turtle
-Testitietokanta omaa projektia varten
+Test database for own Vue Movie App project. 
